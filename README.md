@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Sinan EV</h1>
-<h3 align="center"> Data Science Enthusiast | Passionate about AI, ML & Big Data</h3>
+<h3 align="center">Data Science Enthusiast | Passionate about AI, ML & Big Data</h3>
 
 ---
 
@@ -9,7 +9,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammed-sinan-ev-0b96b131b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -17,14 +17,14 @@
   <a href="https://instagram.com/_sinan_ev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/muhammedsinan/" target="_blank">
+  <a href="https://leetcode.com/u/Muhammed-Sinan-786/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 <p align="center"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
@@ -40,7 +40,7 @@
 
 ---
 
-###  GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sinan-ev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
@@ -55,7 +55,7 @@
 
 ---
 
-###  GitHub Trophies
+### GitHub Trophies
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=sinan-ev&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
 </p>
