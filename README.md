@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Sinan EV</h1>
-<h3 align="center">🚀 Data Science Enthusiast | Passionate about AI, ML & Big Data</h3>
+<h3 align="center"> Data Science Enthusiast | Passionate about AI, ML & Big Data</h3>
 
 ---
 
@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sinan-ev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
@@ -55,7 +55,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+###  GitHub Trophies
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=sinan-ev&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
 </p>
