@@ -104,22 +104,15 @@ Regularly practicing data structures and algorithms on LeetCode, with a focus on
 
 ---
 
-## GitHub Statistics
+## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinan-ev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sinan-ev&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sinan-ev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sinan-ev&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
+  <a href="https://github.com/sinan-ev?tab=repositories">
+    <img src="https://img.shields.io/github/followers/sinan-ev?label=Followers&style=for-the-badge&logo=github&color=0e75b6" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/sinan-ev?tab=repositories">
+    <img src="https://img.shields.io/badge/View-All_Repositories-181717?style=for-the-badge&logo=github" alt="View Repositories" />
+  </a>
 </p>
 
 ---
